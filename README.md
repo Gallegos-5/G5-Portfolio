@@ -28,6 +28,11 @@ Each Act in the G5 can stand alone, but together, they form a pipeline for safe,
   
 - [Open Demonstration & Mastery-Based Education Act](https://github.com/Gallegos-5/ODMEA-draft-lucas-2025)  
   *Creates open mastery pathways and a public registry for education and skills demonstration.*
+---
+## Extensions / Demonstrator Acts
+- [National Public Drone Infrastructure & First Responder Pilot Act (NP-DIRPA)](https://github.com/Gallegos-5/NP-DIRPA-draft-lucas-2025)  
+  *Accelerates safe, open drone pilots for infrastructure inspection and emergency response, with a two-tier sandbox, blue-team/red-team air-safety board, and strict privacy controls.*  
+  **DOI:** [10.5281/zenodo.16654647](https://doi.org/10.5281/zenodo.16654647)
 
 
 ---
