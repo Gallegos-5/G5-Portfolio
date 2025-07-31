@@ -31,6 +31,14 @@ Each Act in the G5 can stand alone, but together, they form a pipeline for safe,
 
 
 ---
+## Citations / DOIs
+
+- [Gallegos, Lucas. *Federal Model Policy Submission & Registry Act*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16627560)
+- [Gallegos, Lucas. *American Ambition & Accountability Act (AAA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16627446)
+- [Gallegos, Lucas. *AI Clinical Safety Act (AACDSA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16627536)
+- [Gallegos, Lucas. *Pediatric Care Stability & Transparency Act (PCSTA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16627484)
+- [Gallegos, Lucas. *Open Demonstration & Mastery-Based Education Act (ODMEA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16626992)
+---
 
 ## Vision
 
