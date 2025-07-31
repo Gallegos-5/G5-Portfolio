@@ -14,20 +14,21 @@ Each Act in the G5 can stand alone, but together, they form a pipeline for safe,
 
 ## Acts in the G5 Portfolio
 
-- [Federal Model Policy Submission & Registry Act](https://github.com/Gallegos-5/Submission-Act)  
+- [Federal Model Policy Submission & Registry Act](https://github.com/Gallegos-5/FMPSRA-draft-lucas-2025)  
   *Creates a public, open-source registry for citizen and expert model policy submissions.*
 
-- [American Ambition & Accountability Act (AAA)](https://github.com/Gallegos-5/AAA)  
+- [American Ambition & Accountability Act (AAA)](https://github.com/Gallegos-5/AAA-draft-lucas-2025)  
   *Establishes a “sandbox” process to rapidly test and audit ambitious ideas with independent oversight, KPIs, and public dashboards.*
 
-- [AI Clinical Safety Act](https://github.com/Gallegos-5/AI-Clinical-Safety-Act)  
+- [AI Clinical Safety Act](https://github.com/Gallegos-5/AACDSA-draft-lucas-2025)  
   *Mandates independent audits and explainability for AI deployed in healthcare settings.*
 
-- [Pediatric Care Stability & Transparency Act](https://github.com/Gallegos-5/Pediatric-Care-Act)  
+- [Pediatric Care Stability & Transparency Act](https://github.com/Gallegos-5/PCSTA-draft-lucas-2025)  
   *Demonstrates sector-specific transparency and accountability in children’s health services.*
-
-- [Open Demonstration & Mastery-Based Education Act](https://github.com/Gallegos-5/Education-Act)  
+  
+- [Open Demonstration & Mastery-Based Education Act](https://github.com/Gallegos-5/ODMEA-draft-lucas-2025)  
   *Creates open mastery pathways and a public registry for education and skills demonstration.*
+
 
 ---
 
@@ -49,6 +50,13 @@ The G5 is proof that “anyone can innovate”—demonstrating that bold, high-s
 - **Reuse:** All content is open-source under [CC-BY 4.0](./LICENSE); fork or adapt for state/local pilots.
 - **Contribute:** Open an Issue or submit a Pull Request if you have policy edits, comments, or want to collaborate.
 - **Cite:** Each act will have a Zenodo DOI for academic or policy references.
+
+---
+
+## Community & Feedback
+
+For questions, open debate, or suggestions about any part of the G5 reform suite,  
+join our [G5 Discussions board](https://github.com/Gallegos-5/G5-Portfolio/discussions).
 
 ---
 
