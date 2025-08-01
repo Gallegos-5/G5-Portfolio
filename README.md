@@ -33,6 +33,9 @@ Each Act in the G5 can stand alone, but together, they form a pipeline for safe,
 - [National Public Drone Infrastructure & First Responder Pilot Act (NP-DIRPA)](https://github.com/Gallegos-5/NP-DIRPA-draft-lucas-2025)  
   *Accelerates safe, open drone pilots for infrastructure inspection and emergency response, with a two-tier sandbox, blue-team/red-team air-safety board, and strict privacy controls.*  
   **DOI:** [10.5281/zenodo.16654647](https://doi.org/10.5281/zenodo.16654647)
+- [Founders’ Promise & American Renewal Act (FPRA)](https://github.com/Gallegos-5/FPRA-draft-lucas-2025)  
+  *Creates a surge-ready, citizen-triggered federal audit corps for AI, infrastructure, and public funds—public ledger, audit petition rights, cryptographic tracking, and 10-year sunset with GAO review.*  
+  **DOI:** [10.5281/zenodo.16673846](https://doi.org/10.5281/zenodo.16673846)
 
 
 ---
