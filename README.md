@@ -36,7 +36,20 @@ Each Act in the G5 can stand alone, but together, they form a pipeline for safe,
 - [Founders’ Promise & American Renewal Act (FPRA)](https://github.com/Gallegos-5/FPRA-draft-lucas-2025)  
   *Creates a surge-ready, citizen-triggered federal audit corps for AI, infrastructure, and public funds—public ledger, audit petition rights, cryptographic tracking, and 10-year sunset with GAO review.*  
   **DOI:** [10.5281/zenodo.16673846](https://doi.org/10.5281/zenodo.16673846)
+---
 
+## 🚀 Future America Vision
+
+Looking for the next step in open American governance?  
+Check out the [**Future America Vision**](https://github.com/Gallegos-5/Future-America-Vision) flagship portfolio—  
+featuring the three acts that define a transparent, participatory, and accountable U.S. future.
+
+> **Explore the vision:**  
+> - [Federal Model Policy Submission & Registry Act (FMPSRA)](https://github.com/Gallegos-5/FMPSRA-draft-lucas-2025)
+> - [American Ambition & Accountability Act (AAA)](https://github.com/Gallegos-5/AAA-draft-lucas-2025)
+> - [Founders’ Promise & American Renewal Act (FPRA)](https://github.com/Gallegos-5/FPRA-draft-lucas-2025)
+
+[→ Visit the Future America Vision repo](https://github.com/Gallegos-5/Future-America-Vision)
 
 ---
 ## Citations / DOIs
