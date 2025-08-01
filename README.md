@@ -78,8 +78,8 @@ join our [G5 Discussions board](https://github.com/Gallegos-5/G5-Portfolio/discu
 
 ## Attribution
 
-Created by [Lucas Gallegos]  
-Contact: [g5policyteam@gmail.com]  
+Created by Lucas Gallegos  
+Contact: g5policyteam@gmail.com 
 © 2025, Gallegos-5 portfolio
 
 ---
